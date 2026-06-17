@@ -5,3 +5,4 @@ werkzeug
 pyjwt
 python-multipart
 pydantic[email]
+uvicorn
